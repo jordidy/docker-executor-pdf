@@ -1,6 +1,11 @@
-jupyter
-jupyter_kernel_gateway
-ipykernel
+jupyter==1.0.0
+jupyter_kernel_gateway==2.5.2
+
+notebook==6.5.7
+jupyter_server<2
+
+ipykernel==6.29.5
+ipython==8.18.1
 
 pandas
 numpy
