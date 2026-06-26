@@ -1,0 +1,14 @@
+jupyter
+jupyter_kernel_gateway
+ipykernel
+
+pandas
+numpy
+matplotlib
+
+reportlab
+weasyprint
+
+openpyxl
+python-docx
+python-pptx
